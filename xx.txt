@@ -1,0 +1,7 @@
+mobile and web development
+
+Mobile Application Development Platforms (MDAP) and Unified iOS/Android Frameworks e.g. Xamarin , React Native, etc
+
+Solid understanding of client-side web technologies: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Web Components, Angular.js
+
+Experience with distributed version control systems: mostly Git (Github and/or Bitbucket).
